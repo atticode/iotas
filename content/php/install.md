@@ -17,6 +17,14 @@ tags = ["php"]
 
 #### 配置 Apache Httpd
 打开 apache/conf/httpd.conf 文件, Apache 添加 PHP 模块
+
+* PHP7
+``` ini
+LoadModule php7_module C:/Develop/php/php7apache2_4.dll
+PHPIniDir "C:/Develop/php"
+AddType application/x-httpd-php .php
+```
+
 * PHP 5
 ``` ini
  # 1. 添加PHP模块
@@ -52,3 +60,11 @@ extension=php_pdo_mysql.dll
 ```
 date.timezone = Asia/Shanghai
 ```
+
+
+### 常见问题
+1. Apache在windows下安装时出现服务无法启动的问题?
+
+将`httpd.conf`文件的181行`LoadModule ssl_module modules/mod_ssl.so`注释掉
+
+

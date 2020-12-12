@@ -10,8 +10,7 @@ tags = ["nodejs"]
 
 ## Connect 使用
 
-```js
-
+``` js
 // 引入模块
 var http = require('http');
 var connect = require('connect');
@@ -21,14 +20,14 @@ var app = connect();
 
 // 添加所有请求的中间件
 app.use(function middleware1(req, res, next) {
-  // TODO
-  
+  // TODO...
+
   next();
 });
 
 // 添加 '/url1' 路径请求的中间件
 app.use('/url1', function middleware2(req, res, next) {
-  // TODO
+  // TODO...
 
   next();
 });
@@ -41,6 +40,7 @@ http.createServer(app).listen(3000);
 ## Connect 源码简单拆解
 
 ``` js
+
 /******   省略实现细节 *********
  * 1. 通过 use() 方法，将路由和匹配的中间件函数放入 stack 数组
  * 2. 开始接到请求，调用 next() 方法
@@ -82,6 +82,7 @@ app.handle = function handle(req, res, out) {
   // 执行 next()
   next();
 }
+
 
 function call(middlewareFunc, route, err, req, res, next) {
   try {

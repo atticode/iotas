@@ -1,17 +1,12 @@
 +++
-title = "Vim 笔记"
-date = 2020-11-07T00:10:32+08:00
-tags = ["vim"]
+title = "Setting"
+date = 2020-12-12T13:40:58+08:00
+isCJKLanguage = true
+description = ""
+tags = []
+categories = []
+weight = 10
 +++
-
-## vim 常用命令
-
-| 命令 | 说明                                         |
-|------+----------------------------------------------|
-| C-c  | 退出编辑模式                                 |
-| C-[  | 退出编辑模式                                 |
-| ESC  | 退出编辑模式                                 |
-| C-o  | 临时退出编辑模式(输入一条命令后回到编辑模式) |
 
 ## vim 配置
 ### Vim 设置状态栏
@@ -54,10 +49,3 @@ hi User0 ctermfg=yellow  ctermbg=138
 ### 安装
 1. 将压缩包中的plugin/emmet.vim 文件拷贝到 vim 安装目录下的 plugin/ 文件夹
 2. 将压缩包中的autoload/ 下的 emmet.vim文件和emmet/文件夹拷贝到 vim安装目录下的 autoload/ 文件夹
-
-### emmet常用命令
-| 命令  | 说明     |
-|-------+----------|
-| C-y , | 展开标签 |
-
-

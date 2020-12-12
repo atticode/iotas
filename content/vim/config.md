@@ -4,8 +4,9 @@ date = 2020-11-05T00:10:32+08:00
 tags = ["vim"]
 +++
 
+文件名 `.vimrc`
 
-```vimscript
+```vim
 
 set nocompatible              " be iMproved, required
 filetype off                  " required

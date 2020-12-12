@@ -5,6 +5,11 @@ tags = ["git"]
 +++
 
 
+## Git 本地新建分支并关联远程分支
+``` shell
+$ git checkout -b dev origin/dev
+```
+
 ## 修改远程版本库
 * 直接修改
 ```bash
@@ -16,3 +21,4 @@ git remote origin set-url [url]
   git remote rm origin
   git remote add origin [url]
 ```
+

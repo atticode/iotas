@@ -1,7 +1,7 @@
 +++
-title = "Git Website"
+title = "Linux Website"
 date = 2020-11-28T00:10:32+08:00
-tags = ["git", "website"]
+tags = ["linux", "website"]
 +++
 
 * [Linux Kernel](https://www.kernel.org/)
