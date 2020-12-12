@@ -1,0 +1,28 @@
+** Emacs Packages
+
+*** highlight-parentheses
+高亮显示配对的括号(不同颜色显示)
+
+*** find-file-suggest
+索引项目文件
+
+*** ido-mode
+输入文件名的片段定位到文件夹和文件名
+
+*** js2-highlight-vars
+作用域内变量的 highlight 功能
+
+*** js2-mode
+js 语法
+
+*** yasnippet
+提供各种语言的模板
+
+*** dired
+文件目录操作
+
+*** magit
+git 操作
+
+
+

@@ -1,0 +1,43 @@
+#+TITLE: Emacs 常用设置
+
+*** 在配置文件中添加设置
+#+BEGIN_SRC emacs-lisp
+;; highlight marked region
+(transient-mark-mode t)
+
+;; enable syntax highlight
+(global-font-lock-mode t)
+
+;; show column number on status bar
+(setq column-number-mode t)
+
+;; close toolbar
+(tool-bar-mode)
+
+;; enable mouse wheel support
+(mouse-wheel-mode)
+(put 'upcase-region 'disabled nil)
+
+;; 设置环境变量 "HOME" 和 "PATH
+(setenv "HOME" "C:/emacs_home")
+(setenv "PATH" "C:/emacs_home")
+
+;; 设置emacs默认打开文件的路径
+(setq default-directory "E:/emacs_workspace/")
+(setq command-line-default-directory "E:/emacs_workspace/")
+;;(add-to-list 'load-path "D:/emacs/")
+
+;;set tab width
+(setq-default tab-width 4)
+
+
+;; 语法高亮
+(global-font-lock-mode t)
+
+;; title设置成 "文件名@Emacs"
+(setq frame-title-format "%b@Emacs"
+
+;; 高亮配匹配的字符
+(show-paren-mode t)
+(setq show-paren-style 'parentheses)
+#+END_SRC

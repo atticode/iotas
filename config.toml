@@ -1,0 +1,23 @@
+baseURL = "http://www.iotas.xyz/"
+languageCode = "zh-CN"
+title = "Iotas"
+theme = "m10c"
+# "yaml", "toml", "json"
+metaDataFormat = "toml"
+paginate = 10
+hasCJKLanguage = true
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+
+[params]
+  author = "Iotas"
+  description = "Develop document"
