@@ -46,6 +46,11 @@ tags = ["frontend", "website"]
 * [Less](http://lesscss.org/)
 * [Less 中文网](http://lesscss.cn/)
 
+## Lib
+* [Popperjs](https://popper.js.org/)
+* [Video.js](https://videojs.com/)
+* [socket.io](https://socket.io/)
+
 ## Tool
 * [Webpack](https://webpack.js.org/)
 * [Webpack 中文网](https://webpack.docschina.org/)

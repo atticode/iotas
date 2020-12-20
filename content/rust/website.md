@@ -15,6 +15,9 @@ tags = ["rust", "website"]
 ## Package
 * [Actix web](https://actix.rs/)
 * [handlebars-rust(GitHub)](https://github.com/sunng87/handlebars-rust)
+* [Diesel](https://diesel.rs/)
 
+* [Tungstenite](https://crates.io/crates/tungstenite)
+* [WS](https://crates.io/crates/ws)
 
 * [Writing an OS in Rust](https://os.phil-opp.com/)

@@ -58,7 +58,8 @@ tags = ["develop", "website"]
 * [XMind](https://www.xmind.net/)
 * [XMind(CN)](https://www.xmind.cn/)
 * [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
-
+* [electerm](https://electerm.github.io/electerm/)
+* [electerm(GitHub)](https://github.com/electerm/electerm)
 
 
 ## 常用

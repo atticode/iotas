@@ -1,5 +1,5 @@
 +++
-title = "LaTex Note"
+title = "LaTex Chinese"
 date = 2020-11-07T11:10:10+08:00
 tags = ["LaTeX"]
 +++

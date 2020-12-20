@@ -3,7 +3,7 @@ title = "Jenkins"
 date = 2020-12-12T13:19:07+08:00
 isCJKLanguage = true
 description = ""
-tags = []
+tags = ["ci"]
 categories = []
 weight = 10
 +++

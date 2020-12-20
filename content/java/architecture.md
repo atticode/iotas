@@ -59,3 +59,10 @@ weight = 10
 
 ### 2.Reference
 [Maven Get Start](https://maven.apache.org/guides/getting-started/index.html)
+
+
+### Init
+```bash
+mvn -B archetype:generate -DgroupId=com.demo.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4
+
+```
