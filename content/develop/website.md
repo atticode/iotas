@@ -24,6 +24,8 @@ tags = ["develop", "website"]
 * [GitHub](https://github.com/)
 * [Google Developers](https://developers.google.cn/)
 
+* [LLVM](http://llvm.org/)
+* [Clang](https://clang.llvm.org/)
 
 ## Server
 * [Nginx](https://nginx.org/)
