@@ -9,10 +9,7 @@ weight = 10
 +++
 
 
-常用的tar解压命令总结
- 
-
-## tar
+## 常用的tar解压命令总结
 
 -c: 建立压缩档案
 -x：解压
@@ -75,19 +72,19 @@ unzip file.zip 解压zip
 *.tar.Z 用tar –xZf 解压
 *.rar 用 unrar e解压
 *.zip 用 unzip 解压
- 
 
- 
+
+
 
 linux下最常用的打包程序就是tar了，使用tar程序打出来的包我们常称为tar包，tar包文件的命令通常都是以.tar结尾的。生成tar包后，就可以用其它的程序来进行压缩。
 
 1．命令格式：
 
-tar[必要参数][选择参数][文件] 
+tar[必要参数][选择参数][文件]
 
 2．命令功能：
 
-用来压缩和解压文件。tar本身不具有压缩功能。他是调用压缩功能实现的 
+用来压缩和解压文件。tar本身不具有压缩功能。他是调用压缩功能实现的
 
 3．命令参数：
 
@@ -139,7 +136,7 @@ tar[必要参数][选择参数][文件]
 
 4．常见解压/压缩命令
 
-tar 
+tar
 解包：tar xvf FileName.tar
 打包：tar cvf FileName.tar DirName
 （注：tar是打包，不是压缩！）
@@ -182,9 +179,9 @@ tar
 
 .rar
 解压：rar x FileName.rar
-压缩：rar a FileName.rar DirName 
+压缩：rar a FileName.rar DirName
 
- 
+
 
 5．使用实例
 
