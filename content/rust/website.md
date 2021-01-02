@@ -18,8 +18,15 @@ tags = ["rust", "website"]
 * [Diesel](https://diesel.rs/)
 * [leveldb](https://crates.io/crates/leveldb)
 * [rocksdb](https://crates.io/crates/rocksdb)
+* [rusqlite](https://crates.io/crates/rusqlite)
 
 * [Tungstenite](https://crates.io/crates/tungstenite)
 * [WS](https://crates.io/crates/ws)
+
+* [printpdf](https://crates.io/crates/printpdf)
+* [mdbook](https://crates.io/crates/mdbook)
+
+
+
 
 * [Writing an OS in Rust](https://os.phil-opp.com/)

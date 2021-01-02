@@ -50,6 +50,9 @@ tags = ["frontend", "website"]
 * [Popperjs](https://popper.js.org/)
 * [Video.js](https://videojs.com/)
 * [socket.io](https://socket.io/)
+* [highlightjs](https://highlightjs.org/)
+* [ace Editor](https://github.com/ajaxorg/ace)
+* [DPlayer](https://github.com/DIYgod/DPlayer)
 
 ## Tool
 * [Webpack](https://webpack.js.org/)

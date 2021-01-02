@@ -30,6 +30,8 @@ tags = ["nodejs", "website"]
 * [ThinkJS](https://thinkjs.org/)
 * [jsmpeg(GitHub)](https://github.com/phoboslab/jsmpeg)
 * [pinyin(NPM)](https://www.npmjs.com/package/pinyin)
+* [PDFKit](http://pdfkit.org/)
+
 
 ## Tool
 * [Yarn](https://classic.yarnpkg.com/en/)

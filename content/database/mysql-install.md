@@ -68,8 +68,8 @@ ALTER USER 'root'@'localhost' IDENTIFIED BY '新密码';
 ```
 
 ### 卸载
-1. 运行`NET STOP mysql`停止MySQL服务
-2. 运行`SC DELETE mysql`删除MySQL服务
+1. 运行`NET STOP mysql` 或 `sc stop mysql` 停止MySQL服务
+2. 运行 `mysqld -remove` 或 `SC DELETE mysql`删除MySQL服务
 3. 运行`mysqladmin -u root shutdown` 停止MySQL
 
 ### 只启动MySQL不安装
