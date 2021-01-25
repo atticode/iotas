@@ -30,6 +30,7 @@ tags = ["database", "website"]
 * [Studio 3T](https://studio3t.com/)
 * [Robo 3T](https://robomongo.org/)
 * [pgAdmin](https://www.pgadmin.org/)
+* [Sequel Ace](https://sequel-ace.com/)
 
 ## 文档
 * [PostgreSQL 12.2 手册](http://www.postgres.cn/docs/12/index.html)

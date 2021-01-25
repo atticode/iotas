@@ -8,6 +8,7 @@ tags = ["develop", "website"]
 * [MDN](https://developer.mozilla.org/zh-CN/)
 * [GraphQL 中文网](https://graphql.cn/)
 
+
 ## Mirror
 * [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 * [USTC open source software mirror](http://mirrors.ustc.edu.cn/)
@@ -19,6 +20,8 @@ tags = ["develop", "website"]
 
 * [Apache Hadoop](http://hadoop.apache.org/)
 * [Elasticsearch 分布式、RESTful 风格的搜索和数据分析引擎](https://www.elastic.co/cn/elasticsearch/)
+
+* [Apache Airflow](http://airflow.apache.org/)
 
 ## Base
 * [GitHub](https://github.com/)
@@ -42,6 +45,7 @@ tags = ["develop", "website"]
 * [Jenkins](https://www.jenkins.io/zh/)
 * [Zabbix](https://www.zabbix.com/)
 
+
 ## C
 * [MinGW](http://www.mingw.org/)
 * [MSYS2](https://www.msys2.org/)
@@ -62,7 +66,7 @@ tags = ["develop", "website"]
 * [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 * [electerm](https://electerm.github.io/electerm/)
 * [electerm(GitHub)](https://github.com/electerm/electerm)
-
+* [iTerm2](https://iterm2.com/)
 
 ## 常用
 + [百度](https://www.baidu.com/)
@@ -103,42 +107,12 @@ tags = ["develop", "website"]
 + [Elixir](https://elixir-lang.org/)
 + [Scala](https://www.scala-lang.org/)
 
-## 前端
-### Vue
-+ [Vue.js(中文)](https://cn.vuejs.org/)
-+ [Vue Router(中文)](https://router.vuejs.org/zh-cn/)
-+ [Vuex(中文)](https://vuex.vuejs.org/zh-cn/)
-+ [Element(中文)](http://element-cn.eleme.io/#/zh-CN)
-+ [Weex(中文)](http://weex.apache.org/cn/)
-
-### Angular
-+ [Angular(英文)](https://angular.io/)
-+ [Angular(中文)](https://www.angular.cn/)
-
-### React
-+ [React(英文)](https://reactjs.org/)
-+ [React(中文)](https://reactnative.cn/)
-+ [React Native(英文)](http://facebook.github.io/react-native/)
-
-### Flutter
-+ [Flutter](https://flutter.dev/)
 
 ## 后端框架
-### Nodejs
-+ [Express(中文)](http://www.expressjs.com.cn/)
-+ [Koajs(英文)](http://koajs.com/)
-+ [Koajs(中文)](https://koa.bootcss.com/)
-+ [eggjs(中文)](https://eggjs.org/)
-+ [Mongoose](https://mongoosejs.com/)
 
 ### Java
 + [Spring](https://spring.io/)
 + [Struts](https://struts.apache.org/)
-
-
-### PHP
-+ [ThinkPHP](http://www.thinkphp.cn/)
-+ [CodeIgniter(CN)](http://codeigniter.org.cn/)
 
 ### Python
 + [Scrapy](https://scrapy.org/)

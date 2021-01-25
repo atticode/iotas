@@ -5,9 +5,11 @@ tags = ["nodejs", "website"]
 +++
 
 
-
+## Base
 * [Node.js](https://nodejs.org/en/)
 * [Node.js 中文网](http://nodejs.cn/)
+* [淘宝 NPM 镜像](https://developer.aliyun.com/mirror/NPM)
+
 
 ## Express
 * [Express 中文网](https://www.expressjs.com.cn/)
@@ -26,16 +28,20 @@ tags = ["nodejs", "website"]
 * [EJS](https://ejs.co/)
 
 ## Library
+* [Puppeteer](https://pptr.dev/)
 * [Eggjs](https://eggjs.org/zh-cn/)
 * [ThinkJS](https://thinkjs.org/)
 * [jsmpeg(GitHub)](https://github.com/phoboslab/jsmpeg)
 * [pinyin(NPM)](https://www.npmjs.com/package/pinyin)
 * [PDFKit](http://pdfkit.org/)
 
+## DB
+* [Mongoose](https://mongoosejs.com/)
 
 ## Tool
 * [Yarn](https://classic.yarnpkg.com/en/)
 * [Yarn 中文文档](https://classic.yarnpkg.com/zh-Hans/)
-* [Puppeteer](https://pptr.dev/)
+
+* [PM2](https://pm2.keymetrics.io/)
 
 
