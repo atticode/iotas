@@ -13,7 +13,7 @@ tags = ["frontend", "website"]
 * [TypeScript中文网](https://www.tslang.cn/)
 * [ECMAScript® 2019 Language Specification](https://ecma-international.org/ecma-262/10.0/index.html)
 * [JS.ORG | STATS](https://stats.js.org/)
-
+* [bestofjs - Best of JavaScript](https://bestofjs.org/)
 ## CSS
 * [Sass](https://sass-lang.com/)
 * [Stylus](https://stylus-lang.com/)

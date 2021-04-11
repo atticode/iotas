@@ -27,10 +27,12 @@ tags = ["rust", "website"]
 * [mysql_async](https://crates.io/crates/mysql_async)
 * [postgres](https://crates.io/crates/postgres)
 * [mongodb](https://crates.io/crates/mongodb)
+* [sled](https://crates.io/crates/sled)
 * [Tungstenite](https://crates.io/crates/tungstenite)
 * [WS](https://crates.io/crates/ws)
 
 * [Image](https://crates.io/crates/image)
+* [magick_rust](https://crates.io/crates/magick_rust)
 * [printpdf](https://crates.io/crates/printpdf)
 * [mdbook](https://crates.io/crates/mdbook)
 * [juniper-GraphQL server library](https://crates.io/crates/juniper)
