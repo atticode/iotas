@@ -44,4 +44,5 @@ tags = ["nodejs", "website"]
 
 * [PM2](https://pm2.keymetrics.io/)
 
+* [yo](https://www.npmjs.com/package/yo)
 

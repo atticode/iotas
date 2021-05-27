@@ -17,6 +17,7 @@ tags = ["rust", "website"]
 * [log](https://crates.io/crates/log)
 * [base64](https://crates.io/crates/base64)
 * [Actix web](https://actix.rs/)
+* [tide](https://crates.io/crates/tide)
 * [handlebars-rust(GitHub)](https://github.com/sunng87/handlebars-rust)
 * [Diesel](https://diesel.rs/)
 * [leveldb](https://crates.io/crates/leveldb)
